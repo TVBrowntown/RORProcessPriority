@@ -5,7 +5,7 @@ These registry entries allow you to set Return of Reckoning's process priority p
 For streamers, I recommend using the High Priority file and setting your streaming program's priority to Above Normal. For everyone else, use the High Priority file in case something else is running at above normal priority. To revert to normal, use the Normal file.
 
 Installation instructions:
-Click "Code" (the green button), extract the file you need and double click it.
+Click "Code" (the green button), "Download ZIP", extract the file you need and double click it.
 
 big thanks to:
 https://github.com/Calypto/FortniteProcessPriority
